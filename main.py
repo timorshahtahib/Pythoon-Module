@@ -1,7 +1,7 @@
 import functions 
 
 
-print(functions.say_hell('timor'))
+functions.say_hell('timor')
 
 
-print(functions.sum(2,3))
+functions.sum(2,3)
